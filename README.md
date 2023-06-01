@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirantan Degloorkar</h1>
 <h3 align="center">A passionate Mobile App developer from India</h3>
 
-- 🌱 I’m currently learning **React and Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **chirantandegloorkar@gmail.com**
 
